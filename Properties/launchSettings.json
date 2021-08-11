@@ -23,7 +23,7 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
-    }
+    },
     "Jenkins": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
